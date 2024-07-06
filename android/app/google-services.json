@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "783996806068",
+    "firebase_url": "https://y-spot-e84ca-default-rtdb.firebaseio.com",
+    "project_id": "y-spot-e84ca",
+    "storage_bucket": "y-spot-e84ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783996806068:android:7e91cf60683ca8d558c8e1",
+        "android_client_info": {
+          "package_name": "com.example.adminyspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783996806068-bv2bhruk4unprn9k0ai6ju3i1b7qh274.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmnjokk7Q-zKcmq7FWd7MJgHnhS_HHXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783996806068-5prev1sri4csq04atquman6ikr1n2vmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783996806068-afdjkb0sqj4rvbt3q6ommivg2kb7us3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yspotapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783996806068:android:28be367557658ea158c8e1",
+        "android_client_info": {
+          "package_name": "com.example.yspotapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783996806068-pju34p62nfo634n193la71knvn6a6b4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yspotapp",
+            "certificate_hash": "e05c0a20b73ae7199c670b8af97b44456b8b6ac9"
+          }
+        },
+        {
+          "client_id": "783996806068-bv2bhruk4unprn9k0ai6ju3i1b7qh274.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmnjokk7Q-zKcmq7FWd7MJgHnhS_HHXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783996806068-5prev1sri4csq04atquman6ikr1n2vmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "783996806068-afdjkb0sqj4rvbt3q6ommivg2kb7us3s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yspotapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
